@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="infoButton">Info</string>
+    <string name="searchButton">Search</string>
+    <string name="addButton">Add</string>
+    <string name="poweredBy">powered by boldaeb</string>
+    <string name="versionControl">v1.0.1</string>
+    <string name="title">Title</string>
+</resources>
