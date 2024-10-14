@@ -130,6 +130,7 @@ class MainActivity : AppCompatActivity(), RecyclerViewInterface {
 
     }
 
+    // TODO: make smth 
     private fun findNote() {
         binding.searchBtn.setOnClickListener {
             createFragment(FragmentAddNote.newInstance(), R.id.addNotePlaceHolder)
